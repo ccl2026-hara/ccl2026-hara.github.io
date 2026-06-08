@@ -61,3 +61,5 @@ key: page-dataset
 ## 数据集下载 (Dataset Release)
 
 [训练集下载](dataset/train.json)
+
+[验证集下载](dataset/val.json)
