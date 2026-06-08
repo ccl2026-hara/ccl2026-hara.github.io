@@ -11,12 +11,12 @@ titles:
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT
+  zh-Hant : &ZH_HANT  數據集
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
-  ko      : &KO
+  ko      : &KO       데이터셋
   ko-KR   : *KO
-  fr      : &FR
+  fr      : &FR       Jeu de données
   fr-BE   : *FR
   fr-CA   : *FR
   fr-CH   : *FR
